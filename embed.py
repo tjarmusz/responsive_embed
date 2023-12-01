@@ -1,5 +1,3 @@
-from flask import Flask
-
 user_input = input("Enter the embed link here")
 user_input.strip()
 #user_input = '<iframe width="560" height="315" src="https://www.youtube.com/embed/-udPvjv8jyI?si=1qgd26GCovmMG0gn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
